@@ -8,8 +8,8 @@ Then he used LLama to consolidate the text and dump DSL styple for Gempy. Later 
 
 
 
+![image](https://github.com/user-attachments/assets/f2f3857b-945d-45b9-b722-00230dacdc10)
 
-"A geological model with fold" ---------------->  ![image](https://github.com/user-attachments/assets/137525ca-8560-40f3-a454-4a6f861c4de2)
 
 
 
