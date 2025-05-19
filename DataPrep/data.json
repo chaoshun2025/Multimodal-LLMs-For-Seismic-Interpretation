@@ -1,0 +1,255 @@
+{
+    "annotations": [
+        {
+            "filepath": "img1_seismic.jpg",
+            "caption": "This seismic reflection image shows undeformed, continuous, horizontal strata, characteristic of a structurally simple sedimentary sequence. The uniform layering and lack of disruptions suggest minimal tectonic activity, making it a likely representation of a stable depositional environment such as a marine shelf or deep-water basin.",
+            "image": null
+        },
+        {
+            "filepath": "img2_seismic.jpg",
+            "caption": "This seismic reflection image features a clear normal fault cutting through subhorizontal reflectors. The fault dips steeply to the right, with noticeable downward displacement of layers on the left block, characteristic of extensional tectonic regimes. The continuity of the reflections away from the fault suggests relatively undisturbed stratigraphy aside from the faulting.",
+            "image": null
+        },
+        {
+            "filepath": "img3_seismic.jpg",
+            "caption": "this seismic reflection image displays a layer deposition followed by a dipping unconformity on the top, the gently dipping strata with evidence of stepwise is due to low resolution. ",
+            "image": null
+        },
+        {
+            "filepath": "img4_seismic.jpg",
+            "caption": "This image shows a seismic reflection profile with clear horizontal layering disrupted by a normal fault, later a dipping unconformity. The downthrown block on the left indicates extension or subsidence, commonly associated with rift or basin-forming tectonic environments. Reflectors above the fault plane also show minor warping or drag, suggesting localized deformation during fault activity",
+            "image": null
+        },
+        {
+            "filepath": "img5_seismic.jpg",
+            "caption": "The image appears to be a seismic reflection profile showing subsurface geological layers. The slanted feature toward the right side suggests a fault or stratigraphic discontinuity, where horizontal layers are offset—indicative of tectonic activity or structural deformation.",
+            "image": null
+        },
+        {
+            "filepath": "img6_seismic.jpg",
+            "caption": "This seismic reflection image displays a reverse fault, characterized by compression-induced deformation where the hanging wall (left block) is uplifted relative to the footwall (right block). The horizontal reflectors are sharply offset along the fault plane, suggesting significant crustal shortening.",
+            "image": null
+        },
+        {
+            "filepath": "img7_seismic.jpg",
+            "caption": "Seismic image for a layer deposition followed by a reverse fault resulting from compression forces where the crust is being pushed together. Later an unconformity happens on the top, indicating a significant gap in the geologic record — likely due to erosion or non-deposition before newer sediments were deposited.",
+            "image": null
+        },
+        {
+            "filepath": "img8_seismic.jpg",
+            "caption": "This seismic reflection image illustrates a classic reverse fault geometry, where the left block (hanging wall) has been uplifted relative to the right block (footwall). The reflectors on both sides of the fault plane are continuous and gently dipping, with a distinct offset along a steeply dipping fault plane. The structure suggests compressional tectonic forces, commonly seen in fold-and-thrust belts or collisional margins. After that, there is a dipping unconformity happens.",
+            "image": null
+        },
+        {
+            "filepath": "img9_seismic.jpg",
+            "caption": "This seismic reflection image shows two parallel reverse faults dipping to the left. The central block is uplifted relative to the left block but downthrown relative to the right block, forming an asymmetric fault-bounded structure. This type of geometry suggests differential vertical displacement along the fault planes, possibly due to variable slip magnitudes or progressive deformation in a compressional regime.",
+            "image": null
+        },
+        {
+            "filepath": "img10_seismic.jpg",
+            "caption": "This seismic reflection image illustrates three parallel reverse faults, all dipping downward to the left. The structure creates a stepped geometry in which the two central blocks are uplifted relative to the leftmost block, but downthrown relative to the rightmost block. This configuration suggests asymmetric compression, possibly indicating progressive faulting with decreasing vertical displacement toward the left, or a tilted crustal wedge structure in a convergent tectonic regime.",
+            "image": null
+        },
+        {
+            "filepath": "img11_seismic.jpg",
+            "caption": "This seismic reflection image displays a graben structure formed by two steeply dipping normal faults that dip toward each other. The central block is downthrown relative to both flanking blocks, producing a classic signature of crustal extension or rifting. The parallel, continuous reflectors within the graben suggest uniform subsidence and sediment accumulation over time.",
+            "image": null
+        },
+        {
+            "filepath": "img12_seismic.jpg",
+            "caption": "This seismic reflection image shows a classic horst structure, formed by two outward-dipping reverse faults. The central block is uplifted relative to the adjacent flanking blocks, indicative of crustal shortening and compression. The continuity of the reflectors within each block suggests relatively uniform deformation, while the sharp offsets highlight active faulting on both sides.",
+            "image": null
+        },
+        {
+            "filepath": "img13_seismic.jpg",
+            "caption": "This seismic images show a mixed fault system consisting of four faults. The leftmoset and rightmost faults are normal faults, indicating crustal extension on both flanks. The two central faults are reverse faults, dipping toward each other and forming a pop-up structure which is typical of localized compression within an overall extension regime.",
+            "image": null
+        },
+        {
+            "filepath": "img14_seismic.jpg",
+            "caption": "This seismic reflection image displays a set of flat-lying, continuous, and undeformed reflectors, characteristic of a structurally undisturbed sedimentary sequence. The uniform amplitude and parallel layering suggest a stable depositional environment, such as a marine or lacustrine basin, with no apparent faulting or folding.",
+            "image": null
+        },
+        {
+            "filepath": "img15_seismic.jpg",
+            "caption": "This seismic reflection image shows folded reflectors, characterized by broad, sinusoidal undulations. These structures represent gentle, symmetrical folds, likely formed by layer-parallel compressional stress. The consistent wavelength and amplitude across layers suggest uniform ductile deformation, typical of regional folding in a compressional tectonic regime. This style of folding is often seen in foreland basins or orogenic belts and can indicate subsurface traps for hydrocarbons.",
+            "image": null
+        },
+        {
+            "filepath": "img16_seismic.jpg",
+            "caption": "This seismic reflection image displays a domino-style extensional fault system, where all faults dip to the left and the fault blocks are progressively downthrown in the same direction (to the left). This geometry is typical of rotated normal fault blocks in extensional tectonic settings, such as continental rift zones. The stepped offsets and consistent tilt direction reflect distributed crustal stretching. On the top, there is a flat unconformity.",
+            "image": null
+        },
+        {
+            "filepath": "img17_seismic.jpg",
+            "caption": "This seismic reflection image shows folded sedimentary layers that are intersected by a steeply dipping reverse fault. The fault cuts across the wavy reflectors, causing a vertical offset where the left block (hanging wall) is uplifted relative to the right block (footwall). This geometry suggests a compressional tectonic regime, where both folding and faulting contribute to crustal shortening — a typical feature of orogenic belts or foreland thrust systems.",
+            "image": null
+        },
+        {
+            "filepath": "img18_seismic.jpg",
+            "caption": "This seismic reflection image shows a normal fault dipping to the left, cutting through gently folded sedimentary layers. The left block (hanging wall) is downthrown relative to the right block (footwall), consistent with extensional tectonics. The presence of pre-existing folds suggests that the area experienced compressional deformation first, followed by normal faulting during later extension — a common sequence in inversion tectonics or rift basin evolution.",
+            "image": null
+        },
+        {
+            "filepath": "img19_seismic.jpg",
+            "caption": "This seismic reflection image illustrates a normal fault structure, where the fault plane dips to the left, and the left block (hanging wall) is downthrown relative to the right block (footwall). The stratigraphic layers are gently dipping and show a clear vertical offset across the fault. This configuration is characteristic of extensional tectonic regimes, such as those found in rift zones or passive margins, where crustal stretching produces fault-bounded subsidence.",
+            "image": null
+        },
+        {
+            "filepath": "img20_seismic.jpg",
+            "caption": "This seismic reflection image illustrates a normal fault dipping to the left, cutting through a sequence of curved, gently folded reflectors. The left block (hanging wall) is downthrown relative to the right block (footwall), showing clear vertical displacement. The curvature of the layers suggests prior ductile deformation or sedimentary drape, which has been subsequently offset by extensional faulting — a typical overprinting pattern seen in inverted basins or rifting after folding.",
+            "image": null
+        },
+        {
+            "filepath": "img21_seismic.jpg",
+            "caption": "This seismic reflection image depicts a series of stepwise normal faults, each dipping to the right, offsetting a sequence of gently curved sedimentary layers. The left block of each fault is downthrown relative to the right block, forming a ladder-like extensional structure. The consistent displacement direction and curved layering suggest progressive crustal extension, typical of rift zones or passive margin tectonics.",
+            "image": null
+        },
+        {
+            "filepath": "img22_seismic.jpg",
+            "caption": "This seismic reflection image shows a normal fault dipping to the right, offsetting a sequence of gently dipping sedimentary layers. The right block (hanging wall) is downthrown relative to the left block (footwall), forming a distinct vertical displacement. This structure is typical of extensional tectonic environments, such as rift basins, where crustal stretching causes fault-block subsidence.",
+            "image": null
+        },
+        {
+            "filepath": "img23_seismic.jpg",
+            "caption": "This seismic reflection image shows a normal fault dipping to the left, cutting across a sequence of pre-existing folded sedimentary layers. The left block (hanging wall) is clearly downthrown relative to the right block (footwall), indicating post-folding extensional faulting. The geometry suggests a two-stage tectonic history: initial compressional folding, followed by extensional reactivation — a typical structural overprint in inversion tectonics or rifted foreland basins.",
+            "image": null
+        },
+        {
+            "filepath": "img24_seismic.jpg",
+            "caption": "This seismic reflection image shows a normal fault dipping to the left, cutting through a series of folded sedimentary layers. The left block (hanging wall) is clearly downthrown relative to the right block (footwall), confirming extensional faulting. The presence of pre-existing folds suggests that compressional deformation occurred first, followed by normal faulting during a later phase of crustal extension — a hallmark of inversion tectonics or rifted basin evolution.",
+            "image": null
+        },
+        {
+            "filepath": "img25_seismic.jpg",
+            "caption": "This seismic reflection image shows a normal fault dipping to the right, intersecting a series of gently folded sedimentary layers.The sedimentary layers show significant folding throughout the section, creating a wave-like pattern in the strata. The right block (hanging wall) is downthrown relative to the left block (footwall), indicating post-folding extensional tectonics. The combination of folding and faulting reflects a two-phase deformation history — first compression, followed by later crustal extension, commonly seen in inverted or rift-related basins.",
+            "image": null
+        },
+        {
+            "filepath": "img26_seismic.jpg",
+            "caption": "This seismic reflection image illustrates a normal fault dipping to the right, cutting across folded sedimentary layers. The right block (hanging wall) is clearly downthrown relative to the left block (footwall), indicating extensional deformation. The presence of folding prior to faulting suggests a two-phase tectonic evolution: an earlier compressional phase that generated the folds, followed by a later extensional phase that produced the normal fault — typical of inversion or post-orogenic collapse settings.",
+            "image": null
+        },
+        {
+            "filepath": "img27_seismic.jpg",
+            "caption": "This seismic reflection image shows a normal fault dipping to the left, cutting through a sequence of folded sedimentary layers. The fault offsets the layers such that the left block (hanging wall) is downthrown relative to the right block (footwall) — confirming extensional faulting. Notably, the wave-like reflector pattern reveals anticlinal structures on both sides of the fault, suggesting that folding occurred before faulting. This indicates a two-phase tectonic history: an initial compressional regime forming anticlines, followed by a later extensional event resulting in normal faulting.",
+            "image": null
+        },
+        {
+            "filepath": "img28_seismic.jpg",
+            "caption": "This seismic reflection image displays a normal fault dipping to the left, cutting through a sequence of gently dipping sedimentary layers. The left block (hanging wall) is downthrown relative to the right block (footwall), indicating extensional deformation. The reflectors are relatively undeformed aside from the fault displacement, suggesting a simple extensional setting such as an early-stage rift zone or a passive margin fault block system.",
+            "image": null
+        },
+        {
+            "filepath": "img29_seismic.jpg",
+            "caption": "This seismic reflection image shows a set of normal faults dipping to the right, superimposed on a broad syncline fold structure. The faults cut through folded sedimentary layers, with the right blocks progressively downthrown, forming a stepped geometry within the core of the syncline. This indicates a two-phase tectonic history: an earlier compressional regime that formed the syncline, followed by a later extensional phase that produced the normal faults — typical of inversion tectonics or post-orogenic extension.",
+            "image": null
+        },
+        {
+            "filepath": "img30_seismic.jpg",
+            "caption": "This seismic reflection image shows a series of normal faults dipping to the left, forming a stepwise extensional fault system. The left blocks (hanging walls) are progressively downthrown relative to the right blocks (footwalls), creating a domino-style geometry. The underlying reflectors are gently dipping and show consistent vertical offsets, indicating a uniform extensional tectonic regime — typical of rift basins or passive margins undergoing crustal stretching.",
+            "image": null
+        },
+        {
+            "filepath": "img31_seismic.jpg",
+            "caption": "This seismic reflection image reveals two parallel normal faults dipping to the left, which offset a sequence of previously folded sedimentary layers. The central block between the faults is downthrown, forming a graben structure that overprints the earlier folds — indicating a shift from compressional to extensional tectonics. An unconformity surface is clearly present at the top, truncating the underlying deformed strata, suggesting a phase of erosion or non-deposition prior to later sedimentation.",
+            "image": null
+        },
+        {
+            "filepath": "img32_seismic.jpg",
+            "caption": "This seismic image displays two parallel normal faults dipping to the left, displacing the underlying sedimentary layers. The pre-faulting strata exhibit smooth, wave-like reflections, indicating undisturbed horizontal deposition prior to faulting. An angular unconformity is visible at the top of the section, truncating the faulted and folded layers beneath, signifying a period of erosion or non-deposition followed by renewed sedimentation.",
+            "image": null
+        },
+        {
+            "filepath": "img33_seismic.jpg",
+            "caption": "This seismic image shows a classic example of a graben structure formed by two normal faults dipping toward each other. The central block has subsided relative to the flanking blocks, creating a V-shaped depression. The surrounding sedimentary layers remain relatively continuous, indicating that faulting occurred after their deposition. An angular unconformity is visible at the top of the section, truncating the faulted and folded layers beneath, signifying a period of erosion or non-deposition followed by renewed sedimentation.",
+            "image": null
+        },
+        {
+            "filepath": "img34_seismic.jpg",
+            "caption": "This seismic image depicts a horst structure bounded by two outward-dipping normal faults, uplifting the central block relative to the surrounding strata. The sedimentary layers below the faults are continuous and gently deformed. An angular unconformity is visible at the top, truncating the underlying faulted and uplifted layers, indicating a period of erosion or non-deposition before the deposition of overlying, more horizontal strata.",
+            "image": null
+        },
+        {
+            "filepath": "img35_seismic.jpg",
+            "caption": "This seismic image features a single normal fault dipping to the right, offsetting gently folded sedimentary layers. The left block is downthrown relative to the right, indicating extensional deformation. An angular unconformity is present at the top, truncating the faulted and folded strata below. This suggests a significant erosional event or period of non-deposition occurred before the upper, more horizontal layers were laid down.",
+            "image": null
+        },
+        {
+            "filepath": "img36_seismic.jpg",
+            "caption": "This seismic image shows a normal fault dipping to the left, offsetting a sequence of layered sedimentary strata. The left block is clearly downthrown relative to the right, indicating extensional tectonics. On both sides of the fault, the strata form gentle anticlines, suggesting prior folding before fault displacement. An angular unconformity truncates the deformed layers at the top, marking a significant erosional surface before subsequent deposition.",
+            "image": null
+        },
+        {
+            "filepath": "img37_seismic.jpg",
+            "caption": "This seismic image shows a normal fault dipping to the right, offsetting strongly folded sedimentary layers. The left block is downthrown relative to the right, consistent with extensional tectonics. Prominent wave-like patterns in the reflectors indicate well-developed folding prior to faulting. An angular unconformity truncates the folded and faulted strata at the top, marking a significant erosional surface followed by renewed deposition.",
+            "image": null
+        },
+        {
+            "filepath": "img38_seismic.jpg",
+            "caption": "This seismic image shows two parallel normal faults, both dipping to the right, offsetting a sequence of folded sedimentary layers. The central and right blocks are progressively downthrown relative to the leftmost block, consistent with extensional tectonics. The pronounced wave-like reflectors indicate significant folding prior to faulting. An angular unconformity truncates the deformed strata at the top, signifying an erosional surface followed by renewed deposition.",
+            "image": null
+        },
+        {
+            "filepath": "img39_seismic.jpg",
+            "caption": "This seismic image shows two normal faults, both dipping to the right, offsetting folded sedimentary layers. Each of the three blocks contains distinct anticline structures, indicating that folding occurred prior to faulting. The central and right blocks are downthrown relative to the leftmost block, reflecting extensional tectonic activity. An angular unconformity truncates the faulted and folded strata at the top, suggesting a significant period of erosion or non-deposition before the deposition of overlying horizontal layers.",
+            "image": null
+        },
+        {
+            "filepath": "img40_seismic.jpg",
+            "caption": "This seismic image illustrates a graben structure formed by two parallel normal faults, both dipping to the right. The central block is downthrown relative to the flanking blocks, indicative of extensional tectonics. The sedimentary layers across all blocks are mostly horizontal, suggesting that faulting occurred after deposition with minimal folding. An angular unconformity is visible at the top, truncating the faulted strata and indicating a period of erosion or non-deposition prior to the accumulation of younger sediments.",
+            "image": null
+        },
+        {
+            "filepath": "img41_seismic.jpg",
+            "caption": "This seismic image shows three parallel normal faults, all dipping to the right, cutting through syncline-folded sedimentary layers. Each fault successively downthrows the strata, forming a stepped extensional geometry. The underlying layers exhibit a broad synclinal structure, indicating that folding occurred prior to faulting. An angular unconformity is present at the top, truncating the faulted and folded strata, marking a significant erosional event before the deposition of overlying horizontal sediments.",
+            "image": null
+        },
+        {
+            "filepath": "img42_seismic.jpg",
+            "caption": "This seismic image shows a set of three parallel normal faults, all dipping to the right, cutting through tilted and slightly folded sedimentary layers. The faults form a stepped extensional system, with each successive block downthrown relative to the one on its left. The underlying layers dip gently to the right, suggesting syn-depositional tilting or post-depositional rotation. An angular unconformity is present at the top, truncating the faulted and deformed strata, indicating a significant erosional episode followed by the deposition of overlying horizontal layers.",
+            "image": null
+        },
+        {
+            "filepath": "img43_seismic.jpg",
+            "caption": "This seismic image shows tilted sedimentary layers forming a broad anticline structure, all dipping to the right. The entire package, including the overlying angular unconformity, is tilted, suggesting post-depositional tectonic tilting after both folding and erosion. The unconformity truncates the underlying folded strata, indicating a period of uplift and erosion before renewed sedimentation, followed by regional tilting.",
+            "image": null
+        },
+        {
+            "filepath": "img44_seismic.jpg",
+            "caption": "This seismic image shows a broad syncline structure composed of gently dipping sedimentary layers. The reflections curve downward toward the center of the image, characteristic of compressional folding. A prominent angular unconformity at the top truncates the folded strata, indicating a major erosional surface formed after folding but before the deposition of the overlying tilted layers. The entire sequence, including the unconformity, dips slightly to the right, suggesting later regional tilting.",
+            "image": null
+        },
+        {
+            "filepath": "img45_seismic.jpg",
+            "caption": "This seismic image displays prominently folded sedimentary layers forming alternating anticline and syncline structures. The reflections exhibit strong wave-like patterns, indicative of compressional deformation. A gently dipping angular unconformity is present at the top, truncating the folded strata and signifying a significant erosional event before the deposition of overlying, more planar layers. The entire section, including the unconformity, dips slightly to the right, suggesting later regional tilting.",
+            "image": null
+        },
+        {
+            "filepath": "img46_seismic.jpg",
+            "caption": "This seismic image illustrates a series of folded sedimentary layers forming alternating anticlines and synclines. The strong wave-like geometry suggests significant compressional deformation. A prominent angular unconformity dips from left to right across the top of the section, truncating the underlying folded strata. This indicates a major period of uplift and erosion before the deposition of the overlying younger, more planar sediments. The entire structure, including the unconformity, appears slightly tilted to the right, suggesting subsequent regional tilting after deposition.",
+            "image": null
+        },
+        {
+            "filepath": "img47_seismic.jpg",
+            "caption": "This seismic image displays a series of folded sedimentary layers affected by two normal faults, both dipping to the right. The faults offset the anticline and syncline structures, with the rightmost block downthrown relative to the others—indicating extensional deformation superimposed on previously folded strata. A gently dipping angular unconformity truncates the faulted and folded layers at the top, marking a major erosional surface followed by renewed sedimentation. The entire sequence is slightly tilted to the right, suggesting post-depositional tectonic tilting.",
+            "image": null
+        },
+        {
+            "filepath": "img48_seismic.jpg",
+            "caption": "This seismic image shows two normal faults, both dipping to the left, displacing a folded sequence of sedimentary layers. Prior to faulting, the layers exhibited a syncline on the left and an anticline on the right, indicating pre-existing compressional deformation. The left and central blocks are progressively downthrown, consistent with extensional tectonics. An angular unconformity is present at the top, truncating the faulted and folded strata. The entire sequence, including the unconformity, is tilted to the right, suggesting a later phase of regional tilting after faulting and erosion.",
+            "image": null
+        },
+        {
+            "filepath": "img49_seismic.jpg",
+            "caption": "This seismic image shows two normal faults, both dipping to the left, cutting through preexisting folded sedimentary layers. The fold geometry reveals a syncline on the left and an anticline on the right, indicating earlier compressional deformation. The left and central blocks are downthrown relative to the rightmost block, reflecting subsequent extensional faulting. An angular unconformity truncates the faulted and folded strata at the top. The entire sequence—including the faults, folds, and unconformity—is tilted and dipping to the left, suggesting later regional tilting following deformation and erosion.",
+            "image": null
+        },
+        {
+            "filepath": "img50_seismic.jpg",
+            "caption": "This seismic image shows two parallel normal faults dipping to the right, offsetting a folded sequence of sedimentary layers. The pre-faulting layers display a syncline on the left and an anticline on the right, indicating prior compressional deformation. The central block is downthrown relative to the adjacent blocks, forming a graben structure consistent with extensional tectonics. An angular unconformity truncates the faulted and folded strata at the top. The entire sequence, including the unconformity, is gently tilted to the left, suggesting a later phase of regional tectonic tilting.",
+            "image": null
+        }
+        
+    ]
+}
