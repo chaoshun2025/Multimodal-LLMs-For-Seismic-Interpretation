@@ -8,7 +8,7 @@ Then he used LLama to consolidate the text and dump DSL styple for Gempy. Later 
 
 
 
-![image](https://github.com/user-attachments/assets/275e7420-0205-4175-81e3-ff1f06bf3f4a)
+"a faulted fold sedimentary layer plus a top unconformity" --------->![image](https://github.com/user-attachments/assets/275e7420-0205-4175-81e3-ff1f06bf3f4a)
 
 
 
