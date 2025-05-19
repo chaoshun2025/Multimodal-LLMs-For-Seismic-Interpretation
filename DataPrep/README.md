@@ -1,7 +1,7 @@
 There are different ways to generate text and 2D/3D image pairs.
 Here I use pynoddy to generated 50 seismic images by considering layers, folds, normal and reverse faults, syncline and anticline folds and also unconformity and tilts. Similar try can use Gempy and Stanford's synthesis toolbox and Shell's synthetic package.
 
-Then he used LLama to consolidate the text and dump DSL styple for Gempy. Later he can generate 3D structure maps.
+
 
                                  PyNoddy
           Text---------------------------------------> 2D/3D Image
