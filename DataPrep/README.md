@@ -8,7 +8,7 @@ Then he used LLama to consolidate the text and dump DSL styple for Gempy. Later 
 
 
 
-![image](https://github.com/user-attachments/assets/f2f3857b-945d-45b9-b722-00230dacdc10)
+![image](https://github.com/chaoshun2025/Multimodel-VLMs-For-Seismic-Interpretation/edit/main/DataPrep/img10_seismic.jpg)
 
 
 
