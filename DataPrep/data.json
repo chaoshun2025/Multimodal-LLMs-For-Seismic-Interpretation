@@ -172,12 +172,12 @@
         },
         {
             "filepath": "img35_seismic.jpg",
-            "caption": "This seismic image features a single normal fault dipping to the right, offsetting gently folded sedimentary layers. The left block is downthrown relative to the right, indicating extensional deformation. An angular unconformity is present at the top, truncating the faulted and folded strata below. This suggests a significant erosional event or period of non-deposition occurred before the upper, more horizontal layers were laid down.",
+            "caption": "This seismic image shows a normal fault dipping to the left, offsetting a sequence of layered sedimentary strata. The left block is clearly downthrown relative to the right, indicating extensional tectonics. On both sides of the fault, the strata form gentle anticlines, suggesting prior folding before fault displacement. An angular unconformity truncates the deformed layers at the top, marking a significant erosional surface before subsequent deposition.",
             "image": null
         },
-        {
+	{
             "filepath": "img36_seismic.jpg",
-            "caption": "This seismic image shows a normal fault dipping to the left, offsetting a sequence of layered sedimentary strata. The left block is clearly downthrown relative to the right, indicating extensional tectonics. On both sides of the fault, the strata form gentle anticlines, suggesting prior folding before fault displacement. An angular unconformity truncates the deformed layers at the top, marking a significant erosional surface before subsequent deposition.",
+	    "caption": "Seismic reflection image showing a sequence of parallel sedimentary layers that are uniformly tilted to the left. The continuous, alternating bright and dark reflectors represent dipping strata, likely deposited in a stable environment and later tilted due to tectonic activity. No major faults or folds are visible, suggesting uniform tilting without significant deformation.",
             "image": null
         },
         {
@@ -196,13 +196,18 @@
             "image": null
         },
         {
-            "filepath": "img40_seismic.jpg",
+            "filepath": "img39_seismic.jpg",
             "caption": "This seismic image illustrates a graben structure formed by two parallel normal faults, both dipping to the right. The central block is downthrown relative to the flanking blocks, indicative of extensional tectonics. The sedimentary layers across all blocks are mostly horizontal, suggesting that faulting occurred after deposition with minimal folding. An angular unconformity is visible at the top, truncating the faulted strata and indicating a period of erosion or non-deposition prior to the accumulation of younger sediments.",
+            "image": null
+        },
+	{
+            "filepath": "img40_seismic.jpg",
+            "caption": "This seismic image shows three parallel normal faults, all dipping to the right, cutting through syncline-folded sedimentary layers. Each fault successively downthrows the strata, forming a stepped extensional geometry. The underlying layers exhibit a broad synclinal structure, indicating that folding occurred prior to faulting. An angular unconformity is present at the top, truncating the faulted and folded strata, marking a significant erosional event before the deposition of overlying horizontal sediments.",
             "image": null
         },
         {
             "filepath": "img41_seismic.jpg",
-            "caption": "This seismic image shows three parallel normal faults, all dipping to the right, cutting through syncline-folded sedimentary layers. Each fault successively downthrows the strata, forming a stepped extensional geometry. The underlying layers exhibit a broad synclinal structure, indicating that folding occurred prior to faulting. An angular unconformity is present at the top, truncating the faulted and folded strata, marking a significant erosional event before the deposition of overlying horizontal sediments.",
+            "caption": "This seismic image shows three parallel normal faults, all dipping to the right, cutting through anticline-folded sedimentary layers. Each fault successively downthrows the strata, forming a stepped extensional geometry. The underlying layers exhibit a broad synclinal structure, indicating that folding occurred prior to faulting. An angular unconformity is present at the top, truncating the faulted and folded strata, marking a significant erosional event before the deposition of overlying horizontal sediments.",
             "image": null
         },
         {
