@@ -4,7 +4,17 @@
 
 3) Test on image44_seismic.jpg
 
-The interpretation from the finetuned model is as follow,
+before the training, LLama Model gives incorrect interpretation as follows,
+
+"
+This 3D seismic cube reveals an anticline characterized by two sets of stratal patterns on opposite sides. A stratigraphic break between two layers is marked by the upper fold in the northern region. Meanwhile, the southern portion features a tilted stratigraphic break with a smaller fold and no change in reflection coefficient, indicative of an overturned anticline structure.
+
+In contrast to the other three areas, where two different stratigraphic units are present, the center of this region only features one set of strata, likely a faulted stratigraphic unit with a major stratigraphic break at the bottom, potentially causing a subsidence or uplift.
+
+This seismic cube provides a clear insight into the subsurface structure of the anticline, highlighting the stratigraphic changes and the presence of faults that influence the geometry of the layers.
+"
+
+The interpretation from the finetuned model is given as,
 
 "This seismic reflection image features gently dipping sedimentary layers that form a broad syncline fold structure. The reflections curve downward toward the center of the image, confirming symmetric compression and sediment accumulation in a marine environment. This type of geometry suggests a tilted crustal wedge configuration typical of regional fold-and-thrust belts.
 "
