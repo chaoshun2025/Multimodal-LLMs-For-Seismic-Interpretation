@@ -33,6 +33,6 @@ The training loss curves from WandB as follows,
 ![image](https://github.com/user-attachments/assets/a5d0a34a-e88f-4517-9909-706aeeeb6717)
 
 
-You are welcome to use this small dataset to multimodel LLMs for seismic interpretation tests.
+You are welcome to use this small dataset to multimodal LLMs for seismic interpretation tests.
 
 Please acknowledge me if you can.
