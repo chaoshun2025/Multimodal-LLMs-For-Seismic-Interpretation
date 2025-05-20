@@ -4,7 +4,7 @@
 
 3) Test on image44_seismic.jpg
 
-before the training, LLama Model gives incorrect interpretation as follows,
+***before the training, LLama Model gives hallucination interpretation as follows,***
 
 "
 This 3D seismic cube reveals an anticline characterized by two sets of stratal patterns on opposite sides. A stratigraphic break between two layers is marked by the upper fold in the northern region. Meanwhile, the southern portion features a tilted stratigraphic break with a smaller fold and no change in reflection coefficient, indicative of an overturned anticline structure.
