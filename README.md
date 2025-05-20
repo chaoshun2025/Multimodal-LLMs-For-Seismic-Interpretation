@@ -24,7 +24,7 @@ This seismic cube provides a clear insight into the subsurface structure of the 
 "This seismic image shows a broad syncline structure composed of gently dipping sedimentary layers. The reflections curve downward toward the center of the image, characteristic of compressional folding. A prominent angular unconformity at the top truncates the folded strata, indicating a major erosional surface formed after folding but before the deposition of the overlying tilted layers. The entire sequence, including the unconformity, dips slightly to the right, suggesting later regional tilting.
 "
 
-The original seismic image is shown as,
+The corresponding seismic test image is shown as,
 
 <img width="660" alt="image" src="https://github.com/user-attachments/assets/92616f92-f453-49a6-a30b-5062518144e8" />
 
