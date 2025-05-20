@@ -14,12 +14,12 @@ In contrast to the other three areas, where two different stratigraphic units ar
 This seismic cube provides a clear insight into the subsurface structure of the anticline, highlighting the stratigraphic changes and the presence of faults that influence the geometry of the layers.
 "
 
-The interpretation from the finetuned model is given as,
+***The interpretation from the finetuned model is given as***,
 
 "This seismic reflection image features gently dipping sedimentary layers that form a broad syncline fold structure. The reflections curve downward toward the center of the image, confirming symmetric compression and sediment accumulation in a marine environment. This type of geometry suggests a tilted crustal wedge configuration typical of regional fold-and-thrust belts.
 "
 
-The ground truth caption is 
+***The ground truth caption is***
 
 "This seismic image shows a broad syncline structure composed of gently dipping sedimentary layers. The reflections curve downward toward the center of the image, characteristic of compressional folding. A prominent angular unconformity at the top truncates the folded strata, indicating a major erosional surface formed after folding but before the deposition of the overlying tilted layers. The entire sequence, including the unconformity, dips slightly to the right, suggesting later regional tilting.
 "
